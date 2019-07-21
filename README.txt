@@ -8,7 +8,7 @@ Réalisé par : Nabila ABRAK, Rabie HABACHI, Issam QUINOUNI
 1. Objectifs de l'application
 ---------------------
 
-	L'application ProxibanqueSI permet la gestion des clients de ProxiBanque. Elle sera utilisée les conseillers.
+	L'application ProxibanqueSI permet la gestion des clients de ProxiBanque. Elle sera utilisée par les conseillers.
 	
 	L'application doit permettre au conseiller clientèle de créer un client, le modifier, lire ses informations et le supprimer. Le conseiller doit pouvoir effectuer des virements de  compte à compte ainsi que réaliser des simulations de crédits immobiliers ou de consommation.
 Les clients (particuliers uniquement) fortunés peuvent bénéficier d'un système de placement en bourse. 
@@ -38,7 +38,7 @@ Virement de compte à compte :
 
 
 ---------------------
-III. Installation
+3. Installation
 ---------------------
 
 Pour utiliser ProxiBanqueSI V1, copiez le projet dans le workspace d'Eclipse.
@@ -46,7 +46,7 @@ Ouvrez Eclipse et importez le projet (File -> Import -> Existing projects into w
 Lancez l'application.
 
 --------------------------------------
-IV. Scénario classique d'utilisation
+4. Scénario classique d'utilisation
 --------------------------------------
 
 
@@ -98,7 +98,7 @@ Souhaitez-vous effectuer d'autres opérations?: <O/N>
 	
 
 ------------------------------------------------------
-V. Améliorations prévues 
+5. Améliorations prévues 
 ------------------------------------------------------
 Créer un système d'authentification pour les Conseillers.
 Créer un outil qui permet la simulation des crédits immobiliers et crédits consommations.
